@@ -61,10 +61,8 @@ Misjudging creditworthiness can lead to either risky lending or missed revenue o
 ---
 
 ## Author
-**Harsh**  
+**Harsh Kumar**  
 LinkedIn: https://www.linkedin.com/in/harshk707070  
 GitHub: https://github.com/harshk707070
 
 ---
-
-## Repository Structure
